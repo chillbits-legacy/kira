@@ -1,0 +1,21 @@
+{
+  "name": "chillbits/kira",
+  "description": "WordPress OOP library for ChillBits to make readable projects.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Son",
+      "email": "son@chillbits.com"
+    }
+  ],
+  "require": {
+    "php": "^7.3|^8.0",
+    "roots/support": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kira\\": "src/"
+    }
+  }
+}
