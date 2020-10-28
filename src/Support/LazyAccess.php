@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Kira;
+namespace Kira\Support;
 
 
 trait LazyAccess
