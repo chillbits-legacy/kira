@@ -1,6 +1,6 @@
 {
   "name": "chillbits/kira",
-  "description": "WordPress OOP library for ChillBits to make readable projects.",
+  "description": "Library to support WordPress development in Laravel-way",
   "type": "library",
   "license": "MIT",
   "authors": [
