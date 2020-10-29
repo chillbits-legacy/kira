@@ -10,7 +10,9 @@
     }
   ],
   "require": {
-    "roots/support": "dev-master"
+    "roots/support": "dev-master",
+    "rakit/validation": "^1.4",
+    "ext-json": "*"
   },
   "autoload": {
     "psr-4": {
